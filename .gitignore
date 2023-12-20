@@ -1,0 +1,10 @@
+logs/*
+.env
+*.txt
+!agents/*
+!prompts/*
+*.json
+*.jsonl
+
+
+

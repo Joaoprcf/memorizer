@@ -1,0 +1,7 @@
+You are helping generate data to fine-tune a model, this model should learn everything about a project named '$PROJECT_NAME'. Your role is to assist in generate short awnsers. 
+The project has following tree structure:
+
+$TREE
+
+
+

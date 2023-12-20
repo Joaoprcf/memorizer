@@ -1,0 +1,8 @@
+This is the content of the file "$FILE":
+$CONTENT
+Help me generate questions about the file. Create a list of questions and respective answers that can be answered just by looking at the file. Create at maximum 5 questions-answers (less if the file is too small) in this format
+Question: {Question}
+Answer: {Answer}
+---
+Question: {Question}
+Answer: {Answer}
